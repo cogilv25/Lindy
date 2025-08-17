@@ -1,0 +1,6 @@
+# Windows Specific Files
+**.sln
+.vs
+
+# Project Files
+project
