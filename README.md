@@ -19,19 +19,23 @@ This is a continuation of my dissertation project on [Generating Game Content Us
 # Features
 Some of these are already implemented as part of my dissertation and will just need ported over, others are known to be implementable and, finally, some are conceptual and need proven out.
 ## L-Systems
-- [ ] Basic Context-Free L-Systems
+- [ ] Basic Context-Free L-System
+- [ ] Midpoint L-System
+- [ ] 'Extended' L-System (global constraints (maybe there's a name I missed in the paper..))
+- [ ] Multi-Stage L-System
+- [ ] Tokenizing L-System
+- [ ] Symbol-Free L-System (conceptual)
+- [ ] Compiled L-System (conceptual)
+
+### Extensions
 - [ ] Pseudo L-System Extension
 - [ ] Stochastic L-System Extension
 - [ ] Parametric L-System Extension
-- [ ] Context-Sensitive L-Systems
+- [ ] Context-Sensitive L-System Extension
 - [ ] Timed L-System Extension
-- [ ] Functional L-Systems
-- [ ] Midpoint L-Systems
-- [ ] 'Extended' L-Systems (global constraints (maybe there's a name I missed in the paper..))
-- [ ] Multi-Stage L-Systems
+- [ ] Functional L-System Extension
 - [ ] Indiscrete L-System Extension
-- [ ] Symbol-Free L-Systems (conceptual)
-- [ ] Compiled L-Systems (conceptual)
+- [ ] Relational L-System Extension (working title, I don't like it..)
 
 ## Turtles
 - [ ] Basic 2D turtle
